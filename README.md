@@ -1,6 +1,6 @@
 # Udacity Car Simulator
 
-This project is a simulation of a self-driving car, developed as part of the Udacity course.
+This project simulates a self-driving car, leveraging robust deep learning models developed with Python, TensorFlow, Keras, and OpenCV. By strategically applying data augmentation and advanced computer vision techniques, the simulation significantly enhances model performance. Notable achievements include a reduction in training loss to 0.0293 and validation loss to 0.0231, showcasing expertise in algorithm optimization and model refinement.
 
 ## Project Setup Instructions
 
